@@ -1,9 +1,0 @@
-## \u4E66\u4FE1\u606F
-#demo.book.name=[Spring Boot 2.x Core Action] From Test
-#demo.book.writer=BYSocket
-
-
-demo:
-  book:
-    name:  dev
-    writer: BYSocket
